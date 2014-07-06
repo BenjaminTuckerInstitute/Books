@@ -1,4 +1,5 @@
-Books
-=====
+## Books from the Liberty's Library
 
-Books published by ReadLiberty.org
+Books from the Liberty's Library published by ReadLiberty.org
+
+Unless stated otherwise, No Rights Reserved.
